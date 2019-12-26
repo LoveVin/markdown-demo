@@ -17,3 +17,7 @@
 ```javascript
 console.log("hello");
 ```
+
+我的网站是 [点击这里](https://baidu.com)
+
+![一张图片](timg.jpg)
